@@ -1,15 +1,124 @@
-# 💫 About Me:
-👨‍💻 I’m currently working as a Junior Transportation Planner, working with transportation planning software and client projects.<br><br>🚀 I’m looking to collaborate on Software Development, Data Analytics, AI/ML and Automation projects.<br><br>🤝 I’m looking for help with improving my skills in Software Engineering, AI/ML and building real-world applications.<br><br>🌱 I’m currently learning Python, SQL, Machine Learning, Generative AI, LLMs, API Testing and Cloud technologies.<br><br>💬 Ask me about Python, SQL, Machine Learning, Transportation Planning, GitHub and Generative AI.<br><br>⚡ Fun fact: I’m a quick learner who enjoys exploring new technologies and turning ideas into practical projects.
+# 👋 Hi, I'm Yukthiraj S.N.
 
+### MCA Graduate | Junior Transportation Planner | Python | SQL | AI/ML
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yukthiraj-s-n-08a9b3227) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snyukthiraj@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yukthir0j&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=yukthir0j&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yukthir0j&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a technology professional with an MCA background, currently working as a **Junior Transportation Planner**.
+
+My interests are focused on **Software Development, Data Analytics, Artificial Intelligence, Machine Learning, Automation, and Generative AI**.
+
+I enjoy learning new technologies and applying them to practical, real-world problems.
 
 ---
-[![](https://komarev.com/ghpvc/?username=yukthir0j&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 💼 Currently working as a **Junior Transportation Planner**
+- 🎓 **MCA Graduate**
+- 🐍 Working with **Python and SQL**
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 🧠 Exploring **Generative AI, LLMs & Prompt Engineering**
+- 🧪 Learning **API Testing & Automation**
+- ☁️ Exploring **Cloud Technologies**
+- 📊 Interested in **Data Analytics and Data-driven solutions**
+- 🚀 Looking to transition toward **Software / Data / AI-focused roles**
+- 🌱 Always learning and building practical projects
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming & Development
+- Python
+- SQL
+- ABAP
+- API Testing
+- Selenium
+
+### Data & Machine Learning
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Machine Learning
+- Data Analysis
+- Data Visualization
+
+### AI & Emerging Technologies
+- Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+- AI/ML Applications
+
+### Tools & Platforms
+- Git & GitHub
+- Google Colab
+- VS Code
+- Jira
+- Microsoft Office
+
+### Domain Knowledge
+- Transportation Planning
+- Transportation Planning Software
+- Client & Project Coordination
+- RFP / Tender Analysis
+- Software Support & Application Services
+
+---
+
+## 🚀 Featured Projects
+
+### ❤️ Cardiovascular Disease Prediction
+
+A Machine Learning project that predicts the likelihood of cardiovascular disease using patient-related data.
+
+**Technologies:**
+`Python` `Pandas` `NumPy` `Scikit-learn` `Machine Learning`
+
+**Models explored:**
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+- Decision Tree
+- Random Forest
+
+---
+
+### 🎵 Spotify Songs Genre Segmentation
+
+A data science and machine learning project focused on analysing Spotify song characteristics and grouping songs based on their audio features.
+
+**Technologies:**
+`Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn`
+
+**Concepts:**
+- Exploratory Data Analysis
+- Data Visualization
+- Clustering
+- Feature Analysis
+- Recommendation concepts
+
+---
+
+## 📚 Certifications
+
+- 🏆 Artificial Intelligence Foundation — Infosys Springboard
+- 🔐 CCST Cybersecurity Certification
+- 🧑‍💻 Learning Basic ABAP Programming — SAP
+- ☁️ Cloud & AI technologies — Currently learning
+
+---
+
+## 📈 Currently Learning
+
+```text
+Python
+   ↓
+Data Analytics
+   ↓
+Machine Learning
+   ↓
+Generative AI
+   ↓
+LLMs & AI Applications
+   ↓
+Software / AI Engineering
